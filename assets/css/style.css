@@ -1,0 +1,19 @@
+body{
+
+}
+.title{
+    justify-content: center;
+    background: rgb(127,70,44);
+    color: white;
+    padding: 2em;
+} 
+.title h1{  
+    font-weight: 100;
+    font-size: 50px;
+}
+.card{
+    margin: 2em 0;
+}
+.card-header{
+    color: white;
+}
